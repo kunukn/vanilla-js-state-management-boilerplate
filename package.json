@@ -1,0 +1,24 @@
+{
+  "name": "vanilla-js-state-management-boilerplate",
+  "version": "1.0.0",
+  "description": "This is the skeletal structure to help you build a state managment system in vanilla JavaScript. This is so you can follow the [CSS-Tricks tutorial](https://css-tricks.com/build-a-state-management-system-with-vanilla-javascript).",
+  "main": "index.js",
+  "scripts": {
+    "start": "browser-sync src -w --port 4444",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kunukn/vanilla-js-state-management-boilerplate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kunukn/vanilla-js-state-management-boilerplate/issues"
+  },
+  "homepage": "https://github.com/kunukn/vanilla-js-state-management-boilerplate#readme",
+  "devDependencies": {
+    "browser-sync": "^2.24.6"
+  }
+}

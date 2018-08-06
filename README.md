@@ -1,12 +1,21 @@
-# Vanilla JavaScript state management boilerplate
 
-This is the skeletal structure to help you build a state managment system in vanilla JavaScript. This is so you can follow the [CSS-Tricks tutorial](https://css-tricks.com/build-a-state-management-system-with-vanilla-javascript).
+# Vanilla JavaScript state management example
 
-Any questions, [hit me up on Twitter](https://twitter.com/hankchizljaw).
+Implemented state managment system in vanilla JavaScript from [CSS-Tricks tutorial](https://css-tricks.com/build-a-state-management-system-with-vanilla-javascript).
+Uses [Proxy object ](https://caniuse.com/#feat=proxy).
 
-## Usage
+## quick start
 
-Either clone this repository or grab a [ZIP archive](https://github.com/hankchizljaw/vanilla-js-state-management-boilerplate/archive/master.zip). Then you're good to go 🚀
+* npm install
+* npm start
+* open in browser: http://localhost:4444/
+
+## Known supported browsers (use a modern browser)
+
+* Chrome
+* Firefox
+* Edge
+
 
 ## Demo of what you'll build
 
